@@ -1,0 +1,1 @@
+1049 ER_BAD_DB_ERROR unknown database
